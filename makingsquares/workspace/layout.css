@@ -1,0 +1,43 @@
+.wrapper {
+	width: 64rem;
+	margin: 0 auto;
+}
+
+/* header styles */
+
+/* hero styles */
+.wrapper.hero {
+	height: 300px;
+}
+.content {
+	/*background: green;*/
+	margin: 1.75%;
+	height: 90%;
+}
+
+/* feature styles */
+.columns {
+	float: left;
+	height: 100px;
+}
+.thirty.columns {
+	width: 30%;
+}
+.twenty.columns {
+	width: 20%;
+}
+.feat-text {
+	width: 90%;
+	margin: 10px auto;
+	height: 80px;
+}
+/* sub-features styles */
+.seventy.columns {
+	width: 70%;
+}
+
+/* footer styles */
+.footer {
+	margin: 1.75%;
+	height: 90%;
+}
