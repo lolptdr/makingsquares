@@ -1,0 +1,53 @@
+.wrapper {
+	width: 64rem;
+	margin: 0 auto;
+}
+
+/* header styles */
+nav, .logo {
+	display: inline-block;
+	float: left;
+	margin: 1% 0;
+}
+nav {
+	margin-left: 73.75%;
+}
+.logo {
+	margin-left: 1.75%;
+}
+nav span {
+	display: inline-block;
+}
+
+/* hero styles */
+.wrapper.hero {
+	height: 300px;
+}
+.content {
+	/*background: green;*/
+	margin: 1.75%;
+	height: 90%;
+}
+
+/* feature styles */
+.columns {
+	float: left;
+	height: 100px;
+}
+.thirty.columns {
+	width: 30%;
+}
+.forty.columns {
+	width: 40%;
+}
+.feat-text {
+	width: 90%;
+	margin: 10px auto;
+	height: 80px;
+}
+
+/* footer styles */
+.footer {
+	margin: 1.75%;
+	height: 90%;
+}
