@@ -1,0 +1,63 @@
+.wrapper{
+	width:90%;
+	margin:0 auto;
+}
+
+/*header styles*/
+.header{
+	height:75px;
+	margin:.5%;
+}
+
+/*main-content styles*/
+
+.column{
+	float:left;
+	margin-left: .5%;
+}
+
+.menu{
+	width:10%;
+	height:600px;
+}
+
+.feed{
+	width:78.05%;
+	height:900px;
+}
+
+.ads{
+	width:10%;
+	height:450px;
+}
+
+.top-ad{
+	height:37.5%;
+}
+
+.bot-ad{
+	height:60%;
+	margin-top:5%;
+}
+
+.icon{
+	display:inline-block;
+	margin-right:.5%;
+	width:8%;
+	height:100%;
+}
+
+.post{
+	display:inline-block;
+	width:91%;
+	height:100%;
+}
+
+.content{
+	height:100px;
+	margin-bottom: 1%;
+}
+
+.header,.icon,.post,.bot-ad, .top-ad,.menu{
+	background:#DDDDDD;
+}
